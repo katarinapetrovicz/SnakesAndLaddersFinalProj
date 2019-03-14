@@ -1,9 +1,11 @@
 package finalproj;
+import java.util.*;
+import java.
 
 public class DiceRoller {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.
 
 	}
 
